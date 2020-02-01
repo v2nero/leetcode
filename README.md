@@ -1,2 +1,7 @@
 # leetcode
-leetcode algorithm problems  solutions
+
+leetcode算法题解法整理
+
+## 版权
+所有题目内容著作权归领扣网络所有或解释。
+其它所有内容保留解释权
